@@ -1,9 +1,9 @@
 # Solving Travelling Salesman Problem with Dynamic Programming
 > by Bryan Cornelius Lauwrence
 
-## Daftar Konten
+## Contents
 * [General Information](#general-information)
-* [Descriptison](#description)
+* [Description](#description)
 * [Requirement](#requirement)
 * [Setup and Usage](#setup-and-usage)
 * [Creator](#creator)
@@ -11,7 +11,7 @@
 ## General Information
 TSP with dynamic programming in Ruby
 
-## Descriptison
+## Description
 Solving Travelling Salesman Problem by TSP
 
 ## Requirement
