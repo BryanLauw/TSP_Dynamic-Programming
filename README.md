@@ -1,4 +1,4 @@
-# Tugas Kecil 3 IF2211 Strategi Algoritma
+# Solving Travelling Salesman Problem with Dynamic Programming
 > by Bryan Cornelius Lauwrence
 
 ## Daftar Konten
